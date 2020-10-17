@@ -1,0 +1,16 @@
+[
+  {
+    "name": "configuration",
+    "path": "/configuration",
+    "component": "/Users/mikareich/Documents/GitHub/7schlaefer/pages/configuration.vue",
+    "chunkName": "pages/configuration",
+    "_name": "_6f4230e7"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/mikareich/Documents/GitHub/7schlaefer/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4676ffc3"
+  }
+]
